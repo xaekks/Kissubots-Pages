@@ -14,7 +14,7 @@ General Terms:
 6. If product has free migration then free migration can be done with same platform like cpanel to cpanel, plesk to plesk. We don’t provide free migration on differnt panel based service example, plesk to cpanel.
 
 Fund/Credit Balance:
-1. No Refund after fund added to NinzaHost wallet (Credit Balance).
+1. No Refund after fund added to KissuHost wallet (Credit Balance).
 
 2. Refund provided into Kissuhost wallet is non refundable.
 
